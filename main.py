@@ -1,7 +1,4 @@
 
-# -------- PART 1 --------
-
-# Imports and Configuration
 
 import streamlit as st
 
